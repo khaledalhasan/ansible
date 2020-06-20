@@ -1,0 +1,2 @@
+[wordpress]
+34.242.86.254 ansible_port=22  ansible_user='ubuntu'  ansible_ssh_private_key_file='../Azubi-Khaled.pem'
